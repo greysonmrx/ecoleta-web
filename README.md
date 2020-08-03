@@ -36,7 +36,7 @@
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer and the [Ligeirinho API](https://github.com/greysonmrx/ecoleta-backend). From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer and the [Ecoleta API](https://github.com/greysonmrx/ecoleta-backend). From your command line:
 
 ```bash
 # Clone this repository
