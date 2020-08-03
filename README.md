@@ -20,9 +20,9 @@
   <a href="#memo-license">License</a>
 </p>
 
-<!-- <div align="center">
-  <img alt="Preview" src="./.github/ligeirinho-web.gif" height="350"/>
-</div> -->
+<div align="center">
+  <img alt="Preview" src="./.github/ecoleta-web.gif"/>
+</div>
 
 ## :rocket: Technologies
 
