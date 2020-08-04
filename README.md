@@ -1,9 +1,5 @@
 <div align="center">
-<<<<<<< HEAD
   <img src="./.github/logoNew.png" width="250px" alt="Ecoleta"/>
-=======
-  <img src="./.github/logo.png" width="250px" alt="Ecoleta"/>
->>>>>>> 4dd9b2d54506fe8d35bfa110919665a41da2b66c
 </div>
 
 <h3 align="center">
